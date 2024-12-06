@@ -1,4 +1,4 @@
 Tourism-React-App
 
 Deployment link : 
-tourism-react-ob1dbl39b-saurabh-yadavs-projects-055d9327.vercel.app
+https://tourism-react-17cyppey1-saurabh-yadavs-projects-055d9327.vercel.app/
